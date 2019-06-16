@@ -1,0 +1,4 @@
+4. git checkout -p stash
+5. git commit -m " msg for 2nd commit"
+git stash pop
+
